@@ -1,0 +1,50 @@
+-----------Exception Details on  7/15/2016 12:36:30 AM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 7/15/2016 12:36:30 AM
+
+Error Line No : line 39
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : Cannot open database "dines" requested by the login. The login failed.
+Login failed for user 'sa'.
+
+ Error Page Url: http://localhost:2044/Login.aspx
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  7/15/2016 12:39:08 AM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 7/15/2016 12:39:07 AM
+
+Error Line No : line 39
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : Cannot open database "dines" requested by the login. The login failed.
+Login failed for user 'sa'.
+
+ Error Page Url: http://localhost:2044/Login.aspx
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+

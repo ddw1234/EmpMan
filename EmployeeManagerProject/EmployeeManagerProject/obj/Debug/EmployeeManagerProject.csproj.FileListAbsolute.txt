@@ -1,0 +1,12 @@
+D:\my project\Employee Manager\EmployeeManagerProject\EmployeeManagerProject\bin\EmployeeManagerProject.dll
+D:\my project\Employee Manager\EmployeeManagerProject\EmployeeManagerProject\bin\EmployeeManagerProject.pdb
+D:\my project\Employee Manager\EmployeeManagerProject\EmployeeManagerProject\obj\Debug\EmployeeManagerProject.dll
+D:\my project\Employee Manager\EmployeeManagerProject\EmployeeManagerProject\obj\Debug\EmployeeManagerProject.pdb
+D:\my project\Employee Manager\EmployeeManagerProject\EmployeeManagerProject\bin\BEL_EMPMan.dll
+D:\my project\Employee Manager\EmployeeManagerProject\EmployeeManagerProject\bin\BLL_EMPMan.dll
+D:\my project\Employee Manager\EmployeeManagerProject\EmployeeManagerProject\bin\BEL_EMPMan.pdb
+D:\my project\Employee Manager\EmployeeManagerProject\EmployeeManagerProject\bin\BLL_EMPMan.pdb
+D:\my project\Employee Manager\EmployeeManagerProject\EmployeeManagerProject\bin\DAL_EMPMan.dll
+D:\my project\Employee Manager\EmployeeManagerProject\EmployeeManagerProject\bin\DAL_EMPMan.pdb
+D:\my project\Employee Manager\EmployeeManagerProject\EmployeeManagerProject\obj\Debug\EmployeeManagerProject.csprojResolveAssemblyReference.cache
+D:\my project\Employee Manager\EmployeeManagerProject\EmployeeManagerProject\bin\EmployeeManagerProject.dll.config

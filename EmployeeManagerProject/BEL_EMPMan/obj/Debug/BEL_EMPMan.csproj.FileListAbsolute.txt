@@ -1,0 +1,5 @@
+D:\my project\Employee Manager\EmployeeManagerProject\BEL_EMPMan\bin\Debug\BEL_EMPMan.dll
+D:\my project\Employee Manager\EmployeeManagerProject\BEL_EMPMan\bin\Debug\BEL_EMPMan.pdb
+D:\my project\Employee Manager\EmployeeManagerProject\BEL_EMPMan\obj\Debug\BEL_EMPMan.dll
+D:\my project\Employee Manager\EmployeeManagerProject\BEL_EMPMan\obj\Debug\BEL_EMPMan.pdb
+D:\my project\Employee Manager\EmployeeManagerProject\BEL_EMPMan\obj\Debug\BEL_EMPMan.csprojResolveAssemblyReference.cache

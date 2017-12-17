@@ -1,0 +1,9 @@
+D:\my project\Employee Manager\EmployeeManagerProject\BLL_EMPMan\bin\Debug\BLL_EMPMan.dll
+D:\my project\Employee Manager\EmployeeManagerProject\BLL_EMPMan\bin\Debug\BLL_EMPMan.pdb
+D:\my project\Employee Manager\EmployeeManagerProject\BLL_EMPMan\obj\Debug\BLL_EMPMan.dll
+D:\my project\Employee Manager\EmployeeManagerProject\BLL_EMPMan\obj\Debug\BLL_EMPMan.pdb
+D:\my project\Employee Manager\EmployeeManagerProject\BLL_EMPMan\bin\Debug\BEL_EMPMan.dll
+D:\my project\Employee Manager\EmployeeManagerProject\BLL_EMPMan\bin\Debug\DAL_EMPMan.dll
+D:\my project\Employee Manager\EmployeeManagerProject\BLL_EMPMan\bin\Debug\BEL_EMPMan.pdb
+D:\my project\Employee Manager\EmployeeManagerProject\BLL_EMPMan\bin\Debug\DAL_EMPMan.pdb
+D:\my project\Employee Manager\EmployeeManagerProject\BLL_EMPMan\obj\Debug\BLL_EMPMan.csprojResolveAssemblyReference.cache
